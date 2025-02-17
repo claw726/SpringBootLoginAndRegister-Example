@@ -33,5 +33,6 @@ ensure port 8080 is free
 
 4. ### Run WebServer: 
    - `cd ./claw-interface`
+   - `npm ci`
    - `ng serve`
    - the website will be at http://localhost:4200
